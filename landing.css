@@ -1,0 +1,460 @@
+.logo {
+    position: absolute;
+    width: 265px;
+    height: 240px;
+    left: 10px;
+    top: 10px;
+    
+    background: url(/rhett.png);
+    background-repeat: no-repeat;
+}
+
+.navbar {
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    padding: 0px;
+
+    position: absolute;
+    width: 565px;
+    height: 40px;
+    left: 826px;
+    top: 39px;
+
+    font-family: 'Poppins', sans-serif;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 30px;
+    text-align: center;
+
+    color: #000000;
+
+    justify-content: space-between;   
+}
+
+.banner h1 {
+    position: absolute;
+    width: 233px;
+    height: 90px;
+    left: 342px;
+    top: 270px;
+
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 72px;
+    line-height: 108px;
+
+    color: rgba(255, 255, 255, 0.8);
+}
+
+.banner p {
+
+    position: absolute;
+    width: 724px;
+    height: 84px;
+    left: 352px;
+    top: 390px;
+
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 36px;
+    text-align: center;
+
+    color: rgba(255, 255, 255, 0.8);
+
+}
+
+.banner button {
+    position: absolute;
+    width: 407px;
+    height: 72px;
+    left: 517px;
+    top: 510px;
+
+    background-repeat: repeat;
+    background: transparent;
+    border: 3px solid rgba(255, 255, 255, 0.8);
+    box-sizing: border-box;
+    border-radius: 40px;
+
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 24px;
+    line-height: 36px;
+
+    color: rgba(255, 255, 255, 0.8);
+
+}
+
+.line-1 {
+    position: absolute;
+    width: 90px;
+    height: 15px;
+    left: 60px;
+    top: 725px;
+
+    background: #EF232D;
+    border-radius: 3px;
+}
+
+.text-1 {
+
+    position: absolute;
+    width: 469px;
+    height: 128px;
+    left: 60px;
+    top: 675px;
+
+
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 72px;
+    line-height: 108px;
+
+    color: #000000;
+}
+
+
+
+.mentorship {
+
+    position: absolute;
+    width: 400px;
+    height: 400px;
+    left: 64px;
+    top: 880px;
+
+    background: url(/mentorship\ program.png);
+    filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
+    border-radius: 4px;
+    background-repeat: no-repeat;
+}
+
+.mentorship-text {
+
+    position: absolute;
+    width: 406px;
+    height: 40px;
+    left: 61px;
+    top: 1010px;
+
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 36px;
+    line-height: 54px;
+    text-align: center;
+
+    color: rgba(255, 255, 255, 0.8);
+
+}
+
+.mentorship button {
+    position: absolute;
+    width: 196px;
+    height: 50px;
+    left: 105px;
+    top: 0px;
+
+    background: #EF232D;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    border-color: #EF232D;
+    border-radius: 4px;
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 21px;
+    text-align: center;
+
+    color: rgba(255, 255, 255, 0.8);
+}
+
+.community {
+    position: absolute;
+    width: 400px;
+    height: 400px;
+    left: 519px;
+    top: 880px;
+
+    background: url(/community-building\ events.png);
+    filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
+    border-radius: 4px;
+    background-repeat: no-repeat;
+}
+
+.community button {
+
+    position: absolute;
+    width: 196px;
+    height: 50px;
+    left: 105px;
+    top: 0px;
+
+    background: #EF232D;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    border-color: #EF232D;
+    border-radius: 4px;
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 21px;
+    text-align: center;
+
+    color: rgba(255, 255, 255, 0.8);
+
+}
+
+.community-text {
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 36px;
+    line-height: 54px;
+    text-align: center;
+
+    color: rgba(255, 255, 255, 0.8);
+    position: absolute;
+    width: 406px;
+    height: 106px;
+    left: 516px;
+    top: 1010px;
+}
+
+.clubs {
+
+    position: absolute;
+    width: 400px;
+    height: 400px;
+    left: 976px;
+    top: 880px;
+
+    background: url(/cs\ club\ engagement.png);
+    filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
+    border-radius: 4px;
+    background-repeat: no-repeat;
+
+}
+
+.clubs button {
+    position: absolute;
+    width: 196px;
+    height: 50px;
+    left: 105px;
+    top: 0px;
+
+    background: #EF232D;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    border-color: #EF232D;
+    border-radius: 4px;
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 21px;
+    text-align: center;
+
+    color: rgba(255, 255, 255, 0.8);
+
+}
+
+.clubs-text {
+    position: absolute;
+    width: 406px;
+    height: 53px;
+    left: 975px;
+    top: 1010px;
+
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 36px;
+    line-height: 54px;
+    text-align: center;
+
+    color: rgba(255, 255, 255, 0.8);
+}
+
+.line-2 {
+    position: absolute;
+    width: 90px;
+    height: 15px;
+    left: 60px;
+    top: 1350px;
+
+    background: #EF232D;
+    border-radius: 3px;
+}
+
+.text-2 {
+    position: absolute;
+    width: 451px;
+    height: 90px;
+    left: 62px;
+    top: 1300px;
+
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 72px;
+    line-height: 108px;
+
+    color: #000000;
+}
+
+.banner-2 {
+    position: absolute;
+    width: 1312px;
+    height: 343px;
+    left: 85px;
+    top: 1500px;
+    background-repeat: no-repeat;
+    background: url(/whyusbanner.png);
+
+}
+
+.banner-2-text {
+    position: absolute;
+    width: 889px;
+    height: 72px;
+    left: 210px;
+    top: 100px;
+
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 24px;
+    line-height: 36px;
+    text-align: center;
+
+    color: #FFFFFF;
+}
+
+.banner-2 button {
+    position: absolute;
+    width: 271px;
+    height: 72px;
+    left: 520px;
+    top: 204px;
+    background-repeat: repeat;
+    background: transparent;
+    border: 3px solid rgba(255, 255, 255, 0.8);
+    box-sizing: border-box;
+    border-radius: 40px;
+
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 24px;
+    line-height: 36px;
+
+    color: rgba(255, 255, 255, 0.8);
+}
+
+.footer {
+    position: absolute;
+    width: 1440px;
+    height: 595px;
+    top: 1821px;
+    bottom: 1px;
+    
+}
+
+.foooter-red {
+
+    position: absolute;
+    width: 1440px;
+    height: 338px;
+    left: 0px;
+    top: -128px;
+
+    color: #EF232D;
+
+}
+
+.mail-box {
+    position: absolute;
+    width: 1074px;
+    height: 200px;
+    left: 183px;
+    top: 109px;
+
+    filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
+}
+
+.mail-box-p {
+    position: absolute;
+    height: 72px;
+    left: 15.14%;
+    right: 52.64%;
+    top: calc(50% - 72px/2 - 88.5px);
+
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 48px;
+    line-height: 72px;
+    /* identical to box height */
+
+
+    /* Dark */
+
+    color: #0A142F;
+}
+
+.dropbtn {
+    color: black;
+    padding: 0px;
+    font-size: 16px;
+    border: none;
+
+    font-family: 'Poppins', sans-serif;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 30px;
+    text-align: center;
+
+    color: #000000;
+
+    justify-content: space-between;   
+  }
+  
+  /* The container <div> - needed to position the dropdown content */
+  .dropdown {
+    position: relative;
+    
+  }
+  
+  /* Dropdown Content (Hidden by Default) */
+  .dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: #f1f1f1;
+    min-width: 160px;
+    z-index: 1;
+  }
+  
+  /* Links inside the dropdown */
+  .dropdown-content a {
+    color: black;
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+  }
+  
+  /* Change color of dropdown links on hover */
+  .dropdown-content a:hover {background-color: #ddd;}
+  
+  /* Show the dropdown menu on hover */
+  .dropdown:hover .dropdown-content {display: block;}
+  
+  /* Change the background color of the dropdown button when the dropdown content is shown */
+  .dropdown:hover .dropbtn {background-color: #EF232D;}
